@@ -8,13 +8,14 @@
  * http://www.gnu.org/licenses/gpl.html
  *
  ******************************************************************************/
-( function( $ ) {
+( function( $, d) {
 	$.mbQrcode = {
 		name: "jquery.mb.qrcode",
+		version: "{{ version }}",
+		build: "{{ buildnum }}",
 		author: "Matteo Bicocchi (pupunzi)",
-		version: "1.0",
 		defaults: {},
 		init: function( options ) {}
 	}
 
-} )( jQuery );
+} )( jQuery, document );
