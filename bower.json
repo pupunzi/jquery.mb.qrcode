@@ -1,0 +1,24 @@
+{
+  "name": "jquery.mb.qrcode",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pupunzi/jquery.mb.qrcode",
+  "authors": [
+    "pupunzi <matteo@open-lab.com>"
+  ],
+  "description": "This plugin let you show a QR code for each link you have on your page.",
+  "main": "dist/jquery.mb.qrcode.js",
+  "keywords": [
+    "jquery-plugin",
+    "QR code",
+    "QR"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "buildnum": "2"
+}
