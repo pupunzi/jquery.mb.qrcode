@@ -1,18 +1,23 @@
-//---------------------------------------------------------------------
-// QRCode for JavaScript
-//
-// Copyright (c) 2009 Kazuhiko Arase
-//
-// URL: http://www.d-project.com/
-//
-// Licensed under the MIT license:
-//   http://www.opensource.org/licenses/mit-license.php
-//
-// The word "QR Code" is registered trademark of 
-// DENSO WAVE INCORPORATED
-//   http://www.denso-wave.com/qrcode/faqpatent-e.html
-//
-//---------------------------------------------------------------------
+/*::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ jquery.mb.components
+ 
+ file: qrcode.js
+ last modified: 3/27/17 7:07 PM
+ Version:  {{ version }}
+ Build:  {{ buildnum }}
+ 
+ Open Lab s.r.l., Florence - Italy
+ email:  matteo@open-lab.com
+ blog: 	http://pupunzi.open-lab.com
+ site: 	http://pupunzi.com
+ 	http://open-lab.com
+ 
+ Licences: MIT, GPL
+ http://www.opensource.org/licenses/mit-license.php
+ http://www.gnu.org/licenses/gpl.html
+ 
+ Copyright (c) 2001-2018. Matteo Bicocchi (Pupunzi)
+ :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
 
 //---------------------------------------------------------------------
 // QR8bitByte
